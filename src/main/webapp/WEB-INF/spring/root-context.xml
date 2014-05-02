@@ -12,9 +12,11 @@
       <property name="username" value="manager"/>
       <property name="password" value="123!@#"/>
 	</bean>	
-
+<!--  
   <bean id="customerJDBCTemplate" class="com.tutorialspoint.StudentJDBCTemplate">
       <property name="dataSource"  ref="dataSource" />    
-   </bean
+   </bean>
+		
+-->
 		
 </beans>
